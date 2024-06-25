@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, sou William, tenho 22 anos e sou desenvolvedor Front-End, atualmente trabalho com React e Vue.<br>Sejam bem-vindos.
+Olá, sou William, tenho 23 anos e sou desenvolvedor Front-End/Mobile, atualmente trabalho com React Native e Swift.<br>Sejam bem-vindos.
 
 
 ## 🌐 Socials:
